@@ -1,0 +1,15 @@
+//hello world
+
+/**
+*Author clayton augustyn and bryceton trew
+*Date 1/24/18
+*this is a simple hello world that says our names in it to test compiler
+**/
+
+ int main(int argc, char **argv){
+
+ printf("hello World this is Clayton");
+
+ return 0;
+
+ }
